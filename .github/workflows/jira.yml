@@ -11,7 +11,7 @@ jobs:
     steps:
       - name: Sync
         if: github.event.label.name == 'bug'
-        uses: velas/github-action-issue-to-jira@v1
+        uses: velas/github-action-issue-to-jira@v1.0.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
