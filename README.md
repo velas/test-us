@@ -3,6 +3,7 @@ Welcome to public testing of Velas products
 
 ### How to enter test session
 - In this repository, go to 'Issues", you will see 'test session #.. is open [date]', if the test session is closed, this means we are not currently reviewing new bug reports
+- Make sure an issue for new test session is open by one of 'test-us' repository contributers
 
 ### Scope
 
