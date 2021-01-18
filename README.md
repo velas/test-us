@@ -26,7 +26,7 @@ Welcome to public testing of Velas products
   - click 'Get started' next to 'Bug report'
   - carefully follow the template that will appear in issue description field
 - you search through existing issues before filing every report, do not file duplicates
-- you do not edit your reports once they are reviewed (i.e. labeled 'bug'), for any refinement\addition etc. you add a comment to the issue for that
+- you do not edit your reports once they are reviewed (i.e. labeled 'bug'), for any refinement\addition etc. you add a comment to the issue
 - you can file amendments for existing issues also in the comments
 - you provide enough details to reproduce the bug, 80% should be clear from the summary + where possible add screenshots with highlighted areas 
 - you get a reward in VLX for valuable new bugs (see 'rates' section)
