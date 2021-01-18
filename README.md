@@ -1,6 +1,9 @@
 # Velas Test-us
 Welcome to public testing of Velas products
 
+### How to enter test session
+- In this repository, go to 'Issues", you will see 'test session #.. is open [date]', if the test session is closed, this means we do not review bug reports
+
 ### Scope
 
 - Full testing of all features available through Web UI and mobile applications. 
