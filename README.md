@@ -2,9 +2,12 @@
 Welcome to public testing of Velas products
 
 ### How to enter test session
+- MAKE SURE TEST SESSION IS ANNOUNCED OPEN IN ISSUES OF THIS REPOSITORY
+- DO NOT FILE ANY BUGS IN THIS REPOSITORY, READ THE RULES
 - In this repository, go to 'Issues", you will see 'test session #.. is open [date]', if the test session is closed, this means we are not currently reviewing new bug reports
 - Make sure an issue for new test session is open by one of 'test-us' repository contributers
 - To apply for test session and receive your reward, leave your VLX address here: [test session google form](https://forms.gle/Ko1Zme7PubfYNYve7)
+- 
 
 ### Scope
 
@@ -27,7 +30,7 @@ Welcome to public testing of Velas products
 
 - you file **new bugs in English**
 - to file a new bug:
-  - create a new issue in a respective repository
+  - create a new issue in a respective repository (web or mobile wallet)
   - click 'Get started' next to 'Bug report'
   - carefully follow the template that will appear in issue description field
 - you search through existing issues before filing every report, do not file duplicates
