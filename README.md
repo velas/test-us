@@ -1,6 +1,8 @@
 # Velas Test-us
 Welcome to public testing of Velas products
 
+Test session is not active yet, please, wait for the announcement
+
 ### How to enter test session
 - MAKE SURE TEST SESSION IS ANNOUNCED OPEN IN ISSUES OF THIS REPOSITORY
 - DO NOT FILE ANY BUGS IN THIS REPOSITORY, READ THE RULES
