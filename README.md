@@ -27,6 +27,7 @@ Check 'Issues' to see if any test-session is currently open
 - [Telegram Bot](https://t.me/velas_faucet_bot) to get VLX in TestNetwork twice per day
   - needed to test VLX transactions in TestNetwork
 - You can find faucet coins of other currencies for TestNetwork at google.com
+- You can see test-session workflow at Projects tab for [Web wallet](https://github.com/velas/JsWallet/projects/) and [Mobile wallet](https://github.com/velas/mobile-wallet/projects) respectively
 
 ### Rules
 
