@@ -35,6 +35,7 @@ Check 'Issues' to see if any test-session is currently open
   - create a new issue in a respective repository (web or mobile wallet)
   - click 'Get started' next to 'Bug report'
   - carefully follow the template that will appear in issue description field
+  - don't use existing issues open by repository contributors as an example, these were created only to list existing bugs
 - you search through existing issues before filing every report, do not file duplicates
 - you do not edit your reports once they are reviewed (i.e. labeled 'bug'), for any refinement\addition etc. you add a comment to the issue
 - you can file amendments for existing issues also in the comments
