@@ -23,7 +23,8 @@ Test session is now open.
 - [Mobile apps repository](https://github.com/velas/mobile-wallet)
 - [Official Docs](https://support.velas.com/hc/en-150/sections/360004308360-Questions-and-answers)
 - [Telegram Bot](https://t.me/velas_faucet_bot) to get VLX in TestNetwork twice per day
-  - needed to test transactions in TestNetwork
+  - needed to test VLX transactions in TestNetwork
+- You can find faucet coins for other currencies in testnet coins at google.com
 
 ### Rules
 
