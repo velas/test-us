@@ -1,7 +1,7 @@
 # Velas Test-us
 Welcome to public testing of Velas Wallet products
 
-Check 'Issues' to see if any test-session is currently open.
+Check 'Issues' to see if any test-session is currently open
 
 ### How to enter test session
 - In this repository, go to 'Issues", you will see 'test session #.. is open [date]', if the test session is closed, this means we are not currently reviewing new bug reports
