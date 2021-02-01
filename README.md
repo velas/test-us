@@ -1,11 +1,10 @@
 # Velas Test-us
 Welcome to public testing of Velas products
 
-Test session is not active yet, please, wait for the announcement
+Test session is now open.
 
 ### How to enter test session
 - MAKE SURE TEST SESSION IS ANNOUNCED OPEN IN ISSUES OF THIS REPOSITORY
-- DO NOT FILE ANY BUGS IN THIS REPOSITORY, READ THE RULES
 - In this repository, go to 'Issues", you will see 'test session #.. is open [date]', if the test session is closed, this means we are not currently reviewing new bug reports
 - Make sure an issue for new test session is open by one of 'test-us' repository contributers
 - To apply for test session and receive your reward, leave your VLX address here: [test session google form](https://forms.gle/Ko1Zme7PubfYNYve7)
