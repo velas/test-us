@@ -1,5 +1,5 @@
 # Velas Test-us
-Welcome to public testing of Velas products
+Welcome to public testing of Velas Wallet products
 
 Test session is now open.
 
