@@ -7,6 +7,7 @@ Test session is now open.
 - In this repository, go to 'Issues", you will see 'test session #.. is open [date]', if the test session is closed, this means we are not currently reviewing new bug reports
 - Make sure an issue for new test session is open by one of 'test-us' repository contributers
 - To apply for test session and receive your reward, leave your VLX address here: [test session google form](https://forms.gle/Ko1Zme7PubfYNYve7)
+- If you have tested web wallet previously, please reset browser cache to exclude old bugs (command+shift+R / ctrl+shift+R)
 
 ### Scope
 
