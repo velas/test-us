@@ -45,6 +45,7 @@ Check 'Issues' to see if any test-session is currently open
 - you get a reward in VLX for valuable new bugs (see 'rates' section)
 - we reserve the right to modify the rules during the campaign
 - you can ask a question in the comments under test-session issue in this repository
+- make sure to subscribe to test-session issue to receive updates with questions and answers under it
 
 ### Rates
 All rates presented in USD will be converted to VLX equivalent upon payment
