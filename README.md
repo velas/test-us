@@ -7,13 +7,14 @@ Check 'Issues' to see if any test-session is currently open
 - In this repository, go to 'Issues", you will see 'test session #.. is open [date]', if the test session is closed, this means we are not currently reviewing new bug reports
 - Make sure an issue for new test session is open by one of 'test-us' repository contributers
 - To apply for test session and receive your reward, leave your VLX address here: [test session google form](https://forms.gle/Ko1Zme7PubfYNYve7)
-- If you have tested web wallet previously, please reset browser cache to exclude old bugs (command+shift+R / ctrl+shift+R)
+- If you have tested web wallet previously, it is recommended to reset browser cache to exclude old bugs (command+shift+R / ctrl+shift+R)
 
 ### Scope
 
 - Full testing of all features available through Web UI and mobile applications. 
 - with focus on main functionality that is relevant for a regular user in the context of his daily activities
 - localization and translation mistakes are **out** of scope
+- minor UI inconsistencies that don't block or disturb functionality are **out** of scope
 
 ### Resources
 
@@ -43,6 +44,7 @@ Check 'Issues' to see if any test-session is currently open
 - you provide enough details to reproduce the bug, 80% should be clear from the summary + where possible add screenshots with highlighted areas 
 - you get a reward in VLX for valuable new bugs (see 'rates' section)
 - we reserve the right to modify the rules during the campaign
+- you can ask a question in the comments under test-session issue in this repository
 
 ### Rates
 All rates presented in USD will be converted to VLX equivalent upon payment
