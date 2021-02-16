@@ -62,3 +62,13 @@ All rates presented in USD will be converted to VLX equivalent upon payment
   - duplicates (dup)
   - out of scope (oos)
   - did not follow the instructions (dnfi)
+  
+  ### Projects workflow
+- the review process can be seen in [Web wallet](https://github.com/velas/JsWallet/projects/) and [Mobile wallet](https://github.com/velas/mobile-wallet/projects) projects
+- a project is open when a test-session is open
+- all open issues appear in 'Triage' column and stay there until reviewed
+- relevant bug-reports in the form of github issues are distributed to sv (somewhat valuable), vv (very valuable), or xv (exceptionally valuable) columns, then they are automatically marked with'bug' label, and pushed to Jira (Jira ticked number is added to issues as a comment)
+- bugs that are too minor or not relevant go to 'Not priority (<SV)' column and are not assigned a 'bug' label
+- issues that appear to be actual feature specifics and aren't a bug, or bugs that have already been fixed go to 'Closed' column and the respective issue is closed
+- columns dnfi (didn't follow the instructions), oos (out of scope), and dup (duplicate) contain respective rejected bug reports and get assigned a respective label
+- after the session is closed, the reviewal process is being finished (if hadn't been finished during the session), the projects are closed and archived
