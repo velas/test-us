@@ -63,7 +63,8 @@ All rates presented in USD will be converted to VLX equivalent upon payment
   - out of scope (oos)
   - did not follow the instructions (dnfi)
   
-  ### Projects workflow
+### Projects workflow
+
 - the review process can be seen in [Web wallet](https://github.com/velas/JsWallet/projects/) and [Mobile wallet](https://github.com/velas/mobile-wallet/projects) projects
 - a project is open when a test-session is open
 - all open issues appear in 'Triage' column and stay there until reviewed
